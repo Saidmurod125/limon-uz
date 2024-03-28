@@ -1,5 +1,5 @@
 
-const Jastiq = () => {
+const Are = () => {
   return (
     <div className=" bg-slate-100">
       <div className="container flex gap-10 mx-auto ">
@@ -24,4 +24,4 @@ const Jastiq = () => {
   );
 }
 
-export default Jastiq
+export default Are

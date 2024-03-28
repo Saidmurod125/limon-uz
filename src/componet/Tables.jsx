@@ -1,5 +1,5 @@
-import Qizil from "./Qizil";
-import Yashil from "./Yashil";
+import Red from "./Red";
+import Line from './Line';
 
 const Tables = () => {
   return (
@@ -18,7 +18,7 @@ const Tables = () => {
           </td>
           <td className="flex">
             10.14
-            <Yashil />
+            <Line />
           </td>
         </tr>
         <tr className="mb-5 ">
@@ -34,7 +34,7 @@ const Tables = () => {
           </td>
           <td className="flex">
             -23.02
-            <Qizil />
+            <Red />
           </td>
         </tr>
         <tr className="">
@@ -50,7 +50,7 @@ const Tables = () => {
           </td>
           <td className="flex">
             -0.05
-            <Qizil />
+            <Red />
           </td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ const Tables = () => {
           </td>
           <td className="flex">
             0.09
-            <Yashil />
+            <Line />
           </td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@ const Tables = () => {
           </td>
           <td className="flex">
             1.45
-            <Yashil />
+            <line />
           </td>
         </tr>
       </tbody>
