@@ -3,7 +3,7 @@ const Nomber = () => {
   return (
     <div>
       <div className="container flex gap-20 mx-auto mb-5 ">
-        <div className="flex h-[60%] w-[48%] justify-between rounded-xl border">
+        <div className="flex h-[60%] w-[48%] justify-between  rounded-xl">
           <div>
             <h1 className="px-4 mt-12 mb-4 text-4xl text-slate-700 ">
               Utilitalar
@@ -99,7 +99,7 @@ const Nomber = () => {
               </button>
             </div>
           </div>
-          <div className="">
+          <div className="w-[280px] h-[200px]">
             <img
               className="mt-44 w-[280px]"
               src="https://limonpay.uz/assets/earth-3524978f.png"

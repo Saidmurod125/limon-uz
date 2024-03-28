@@ -2,7 +2,7 @@ import Calso from "./Calso";
 import Ifag from "./Ifag";
 import Macs from "./Macs";
 import Meting from "./Meting";
-import Nomber from "./Nomber";
+import Nomber from "./Namber";
 import Play from "./Play";
 import Traslet from "./Traslet";
 import Are from "./Are";
