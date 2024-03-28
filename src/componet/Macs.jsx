@@ -2,7 +2,7 @@ import Star from "./Star";
 
 const Macs = () => {
   return (
-    <div className="container mx-auto ">
+    <div className="container mx-auto mt-20 ">
       <div className="flex justify-between gap-5 mb-10 ">
         <div className="flex w-[50%] justify-between rounded-lg border bg-slate-100  ">
           <div className="my-10 ml-10">

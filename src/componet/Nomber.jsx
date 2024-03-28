@@ -119,18 +119,17 @@ const Nomber = () => {
               placeholder="+99899_(_759_)_50_99"
               className="mt-8 w-[80%] rounded-xl border  p-5"
             />
-            
           </div>
           <div className="pt-12">
             <h1 className="text-2xl">To`lov miqdori</h1>
 
-            <button className="mt-8 w-[80%] rounded-xl border p-5 px-12">
-              <span className="text-xl mr-80 text-slate-400">
-                10_(100$)--1000_1
-              </span>
-            </button>
+            <input
+              className="mt-8 w-[80%] rounded-xl border p-5 px-12"
+              placeholder="10_(100$)--1000_1"
+            />
+            
           </div>
-          <button className="p-4 px-16 mt-16 text-xl text-yellow-700 border rounded-lg hover:bg-yellow-500">
+          <button className="px-10 py-4 mt-16 text-xl text-yellow-700 border rounded-lg hover:bg-yellow-500">
             To`lov
           </button>
         </div>
